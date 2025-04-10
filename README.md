@@ -11,116 +11,6 @@
 
     <title>Análisis de Competencia</title>
 
-    <style type="text/css">
-
-  
-
-        table, th, td {
-
-            border: 1px solid black;
-
-            border-collapse: collapse;
-
-  
-
-        }
-
-  
-
-        th, td {
-
-            padding: 15px;
-
-        }
-
-  
-
-        th {
-
-            text-align: center;
-
-        }
-
-  
-
-        td:nth-child(3),
-
-        td:nth-child(4),
-
-        td:nth-child(5),
-
-        td:nth-child(6),
-
-        th:nth-child(3),
-
-        th:nth-child(4),
-
-        th:nth-child(5),
-
-        th:nth-child(6) {
-
-        min-width: 200px; /* Puedes ajustar este valor */
-
-       }
-
-  
-
-       .Overview{
-
-        font-size: 16px;
-
-        padding: 20px;
-
-        line-height: 1.6;
-
-        background-color: #f9f9f9;
-
-        color: #333;
-
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-
-        border-radius: 8px;
-
-        box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.1);
-
-  
-
-        text-align: center;       /* Centra el texto horizontalmente */
-
-        vertical-align: top;    
-
-       }
-
-  
-
-       td ul {
-
-        padding-left: 20px; /* Asegura espacio a la izquierda del bullet */
-
-        margin: 0;
-
-        list-style-type: disc; /* Agrega viñetas (puntos) */
-
-       }
-
-  
-
-       td ul li {
-
-        margin-bottom: 12px; /* Espacio entre ítems */
-
-        line-height: 1.5;
-
-        text-align: left; /* Asegura que el texto esté bien alineado con el bullet */
-
-        font-size: 15px;
-
-        list-style-type: disc; /* Asegura que los li también tengan viñetas */
-
-       }
-
-    </style>
-
 </head>
 
 <body>
@@ -960,3 +850,95 @@
 </body>
 
 </html>
+
+    <style type="text/css">
+
+        table, th, td {
+
+            border: 1px solid black;
+
+            border-collapse: collapse;
+
+        }
+
+        th, td {
+
+            padding: 15px;
+
+        }
+
+        th {
+
+            text-align: center;
+
+        }
+
+        td:nth-child(3),
+
+        td:nth-child(4),
+
+        td:nth-child(5),
+
+        td:nth-child(6),
+
+        th:nth-child(3),
+
+        th:nth-child(4),
+
+        th:nth-child(5),
+
+        th:nth-child(6) {
+
+        min-width: 200px; /* Puedes ajustar este valor */
+
+       }
+
+       .Overview{
+
+        font-size: 16px;
+
+        padding: 20px;
+
+        line-height: 1.6;
+
+        background-color: #f9f9f9;
+
+        color: #333;
+
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+        border-radius: 8px;
+
+        box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.1);
+
+        text-align: center;       /* Centra el texto horizontalmente */
+
+        vertical-align: top;    
+
+       }
+
+       td ul {
+
+        padding-left: 20px; /* Asegura espacio a la izquierda del bullet */
+
+        margin: 0;
+
+        list-style-type: disc; /* Agrega viñetas (puntos) */
+
+       }
+
+       td ul li {
+
+        margin-bottom: 12px; /* Espacio entre ítems */
+
+        line-height: 1.5;
+
+        text-align: left; /* Asegura que el texto esté bien alineado con el bullet */
+
+        font-size: 15px;
+
+        list-style-type: disc; /* Asegura que los li también tengan viñetas */
+
+       }
+
+    </style>
