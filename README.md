@@ -14,7 +14,7 @@
                     Este análisis revela que, a diferencia de otros productos, DriveCare no solo detecta fallas, sino que previene problemas antes de que ocurran, educa al conductor y mejora sus hábitos a través de inteligencia artificial. Conocer las fortalezas y debilidades de los competidores nos permite refinar nuestra propuesta de valor, ajustar nuestras estrategias de precios y marketing, y diseñar un producto que realmente se destaque por su tecnología, simplicidad y enfoque preventivo.</th>
 
             </tr>
-
+            
             <tr>
 
                 <th colspan="2">(En la cabecera colocar por cada competidor nombre y logo)</th>
@@ -339,7 +339,7 @@
 
                     <div>
 
-                        <b>Producto </b>
+                        <b>Producto</b>
 
                             <div>
 
@@ -379,7 +379,7 @@
 
                     <div>
 
-                        <b>Producto </b>
+                        <b>Producto</b>
 
                             <div>
 
