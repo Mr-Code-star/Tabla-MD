@@ -2,7 +2,7 @@
   <thead>
             <tr>
                 <th colspan="2">¿Por qué llevar a cabo este análisis?</th>
-                <th colspan="4">Realizar este análisis competitivo es fundamental para el desarrollo exitoso de DriveCare, ya que nos permite entender el entorno en el que queremos posicionarnos. Al estudiar a competidores como FIXD, CarMD y Drivvo, identificamos qué necesidades del usuario ya están siendo cubiertas y, más importante aún, cuáles siguen desatendidas.Este análisis revela que, a diferencia de otros productos, DriveCare no solo detecta fallas, sino que previene problemas antes de que ocurran, educa al conductor y mejora sus hábitos a través de inteligencia artificial. Conocer las fortalezas y debilidades de los competidores nos permite refinar nuestra propuesta de valor, ajustar nuestras estrategias de precios y marketing, y diseñar un producto que realmente se destaque por su tecnología, simplicidad y enfoque preventivo.</th>
+                <th colspan="4">Realizar este análisis competitivo es fundamental para el desarrollo exitoso de DriveCare, ya que nos permite entender el entorno en el que queremos posicionarnos. Al estudiar a competidores como FIXD, CarMD y Drivvo, identificamos qué necesidades del usuario ya están siendo cubiertas y, más importante aún, cuáles siguen desatendidas. Este análisis revela que, a diferencia de otros productos, DriveCare no solo detecta fallas, sino que previene problemas antes de que ocurran, educa al conductor y mejora sus hábitos a través de inteligencia artificial. Conocer las fortalezas y debilidades de los competidores nos permite refinar nuestra propuesta de valor, ajustar nuestras estrategias de precios y marketing, y diseñar un producto que realmente se destaque por su tecnología, simplicidad y enfoque preventivo.</th>
             </tr>
             <tr>
                 <th colspan="2">(En la cabecera colocar por cada competidor nombre y logo)</th>
@@ -405,54 +405,4 @@
             </tr>
         </tbody>
 </table>
-<style>
-  .tabla-md {
-    width: 100%;
-    border-collapse: collapse;
-    font-family: Arial, sans-serif;
-    margin: 20px 0;
-    box-shadow: 0 0 20px rgba(0,0,0,0.15);
-  }
-  
-  .tabla-md th, .tabla-md td {
-    padding: 12px 15px;
-    border: 1px solid #ddd;
-    text-align: left;
-  }
-  
-  .tabla-md thead th {
-    background-color: #2c3e50;
-    color: white;
-    font-weight: bold;
-  }
-  
-  .tabla-md tbody tr:nth-child(even) {
-    background-color: #f8f9fa;
-  }
-  
-  .tabla-md tbody tr:hover {
-    background-color: #e9ecef;
-  }
-  
-  .tabla-md th[colspan="4"] {
-    background-color: #3498db;
-  }
-  
-  .tabla-md .Overview {
-    font-size: 14px;
-    line-height: 1.6;
-  }
-  
-  .tabla-md ul {
-    padding-left: 20px;
-    margin: 5px 0;
-  }
-  
-  .tabla-md li {
-    margin-bottom: 5px;
-  }
-  
-  .tabla-md .highlight {
-    background-color: #fffde7;
-  }
-</style>
+
