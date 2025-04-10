@@ -1,6 +1,4 @@
 # Tabla-MD
-
-
     <table>
 
         <thead>
@@ -832,4 +830,3 @@
         </tbody>
 
     </table>
-
