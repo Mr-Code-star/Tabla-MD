@@ -1,55 +1,3 @@
-<style>
-  .tabla-md {
-    width: 100%;
-    border-collapse: collapse;
-    font-family: Arial, sans-serif;
-    margin: 20px 0;
-    box-shadow: 0 0 20px rgba(0,0,0,0.15);
-  }
-  
-  .tabla-md th, .tabla-md td {
-    padding: 12px 15px;
-    border: 1px solid #ddd;
-    text-align: left;
-  }
-  
-  .tabla-md thead th {
-    background-color: #2c3e50;
-    color: white;
-    font-weight: bold;
-  }
-  
-  .tabla-md tbody tr:nth-child(even) {
-    background-color: #f8f9fa;
-  }
-  
-  .tabla-md tbody tr:hover {
-    background-color: #e9ecef;
-  }
-  
-  .tabla-md th[colspan="4"] {
-    background-color: #3498db;
-  }
-  
-  .tabla-md .Overview {
-    font-size: 14px;
-    line-height: 1.6;
-  }
-  
-  .tabla-md ul {
-    padding-left: 20px;
-    margin: 5px 0;
-  }
-  
-  .tabla-md li {
-    margin-bottom: 5px;
-  }
-  
-  .tabla-md .highlight {
-    background-color: #fffde7;
-  }
-</style>
-
 <table class="tabla-md">
   <thead>
             <tr>
@@ -457,3 +405,54 @@
             </tr>
         </tbody>
 </table>
+<style>
+  .tabla-md {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+    margin: 20px 0;
+    box-shadow: 0 0 20px rgba(0,0,0,0.15);
+  }
+  
+  .tabla-md th, .tabla-md td {
+    padding: 12px 15px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  .tabla-md thead th {
+    background-color: #2c3e50;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .tabla-md tbody tr:nth-child(even) {
+    background-color: #f8f9fa;
+  }
+  
+  .tabla-md tbody tr:hover {
+    background-color: #e9ecef;
+  }
+  
+  .tabla-md th[colspan="4"] {
+    background-color: #3498db;
+  }
+  
+  .tabla-md .Overview {
+    font-size: 14px;
+    line-height: 1.6;
+  }
+  
+  .tabla-md ul {
+    padding-left: 20px;
+    margin: 5px 0;
+  }
+  
+  .tabla-md li {
+    margin-bottom: 5px;
+  }
+  
+  .tabla-md .highlight {
+    background-color: #fffde7;
+  }
+</style>
